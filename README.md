@@ -1,5 +1,5 @@
 # Puro ToolKit
-<a href="https://github.com/RodrikWan"><img title="Version 0.5.0" src="https://img.shields.io/badge/Version-0.1.0-brightgreen"></a>
+<a href="https://github.com/RodrikWan"><img title="Version 0.1.1" src="https://img.shields.io/badge/Version-0.1.1-brightgreen"></a>
 <a href="https://github.com/RodrikWan"><img title="Maintained" src="https://img.shields.io/badge/Maintained-Yes-brightgreen"></a>
 <a href="https://github.com/RodrikWan"><img title="Made with Python" src="https://img.shields.io/badge/Made with-Python-blue?logo=Python"></a>
 <a href="https://www.virustotal.com/gui/file/2b830f328c06b96759d2cbc05fa08c45135bfcba593ac74958644395aad0a42d"><img title="Python Scan" src="https://img.shields.io/badge/VirusTotal-Python Scan-blue?logo=VirusTotal"></a>
