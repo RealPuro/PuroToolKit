@@ -5,7 +5,7 @@ from colorama import *
 from pypresence import Presence
 import os, requests, random, string, base64, threading, socket, webbrowser, concurrent.futures, sys, time
 #Version
-Version = "0.1.2"
+Version = "0.2.0"
 #Rich Presence
 os.system('cls')
 DiscordRichPresence = input(f'{Style.BRIGHT}{Fore.BLACK}PURO TOOLKIT | {Fore.WHITE}Enable Discord Rich Presence? (Y/N): ')
