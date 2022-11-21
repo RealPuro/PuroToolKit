@@ -20,5 +20,5 @@
   <img src="https://img.shields.io/badge/VirusTotal-Executable Scan-384efe?logo=VirusTotal">
   </a>
 </p>
-<h2>Attention</h2> 
+<h2>Disclaimer</h2> 
 This tool is only for educational purposes. I'm not responsible of any bad use.
