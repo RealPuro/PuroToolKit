@@ -5,7 +5,7 @@
 <h1 align="center">Puro ToolKit</h1>
 <p align="center">
   <a href="https://github.com/RealPuro/PuroToolKit/releases">
-    <img src="https://img.shields.io/badge/Version-0.2.0-blue">
+    <img src="https://img.shields.io/badge/Version-1.0.0-blue">
   </a>
   <a href="https://github.com/RealPuro/PuroToolKit/releases">
   <img src="https://img.shields.io/badge/Python-3.11-blue?logo=Python">
