@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/659837199491006514/1044291277652496384/image.png">
+  <img src="https://cdn.discordapp.com/attachments/659837199491006514/1044640702266626078/image.png">
 </p>
 
 <h1 align="center">Puro ToolKit</h1>
